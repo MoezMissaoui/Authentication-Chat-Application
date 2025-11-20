@@ -1,6 +1,8 @@
 /* App-specific styles if needed */
 .App {
   min-height: 100vh;
+  height: 100vh;
+  overflow: hidden;
 }
 
 .loading {
